@@ -864,6 +864,15 @@
 			border-top: solid 2px _palette(border);
 		}
 
+		&.plain {
+			tbody {
+				tr {
+					border: white !important;
+					background-color: white !important;
+				}
+			}
+		}
+
 		&.alt {
 			border-collapse: separate;
 
@@ -1323,6 +1332,18 @@
 
 		> .inner {
 			width: 60em;
+			margin: 0 auto;
+
+			@include breakpoint('<=large') {
+				width: 90%;
+			}
+
+			@include breakpoint('<=medium') {
+				width: 100%;
+			}
+		}
+		> .inner-small {
+			width: 50em;
 			margin: 0 auto;
 
 			@include breakpoint('<=large') {
