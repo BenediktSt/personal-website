@@ -1,13 +1,15 @@
 module.exports = {
   siteTitle: 'Benedikt Straube - Personal Homepage', // <title>
   manifestName: 'Benedikt Straube',
-  manifestShortName: 'Landing', // max 12 characters
+  manifestShortName: 'B_Straube', // max 12 characters
+  manifestDescription: '',
+  manifestLang: 'en',
   manifestStartUrl: '/',
-  manifestBackgroundColor: '#663399',
-  manifestThemeColor: '#663399',
+  manifestBackgroundColor: '#033E8C',
+  manifestThemeColor: '#033E8C',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
-  pathPrefix: `/gatsby-starter-spectral/`, // This path is subpath of your hosting https://domain/portfolio
+  pathPrefix: `/personal-website/`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'Benedikt Straube',
   subHeading: 'software architect, general software development enthusiast and constant learner',
   // social

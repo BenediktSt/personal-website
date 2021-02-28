@@ -99,7 +99,7 @@ const IndexPage = () => (
           </p>
           <ul className='actions stacked'>
             <li>
-              <Link to={`/cv`} className='button fit primary'>
+              <Link to={`/Cv`} className='button fit primary'>
                 More Details in my CV
               </Link>
             </li>
