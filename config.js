@@ -2,7 +2,7 @@ module.exports = {
   siteTitle: 'Benedikt Straube - Personal Homepage', // <title>
   manifestName: 'Benedikt Straube',
   manifestShortName: 'B_Straube', // max 12 characters
-  manifestDescription: '',
+  manifestDescription: 'Personal Website of Benedikt Straube - Software Architect',
   manifestLang: 'en',
   manifestStartUrl: '/',
   manifestBackgroundColor: '#033E8C',
