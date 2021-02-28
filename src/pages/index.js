@@ -44,8 +44,7 @@ const IndexPage = () => (
           </h2>
           <p>
             I am very passionate about a lot of different topics in the area of software development.
-            Currently I am especially interested in software architecture around modern and scalable web.
-            applications.
+            Currently I am especially interested in software architecture around modern and scalable web applications.
             In this area I enjoy designing the system architecture as well as doing frontend and backend
             development.
             Because of all that I am working as a software architect at Accenture.
@@ -150,64 +149,66 @@ const IndexPage = () => (
       </section>
     </section>
 
-    {/*<section id='three' className='wrapper style3 special'>*/}
-    {/*  <div className='inner'>*/}
-    {/*    <header className='major'>*/}
-    {/*      <h2>My way of working</h2>*/}
-    {/*      <p>*/}
-    {/*        Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet*/}
-    {/*        eleifend*/}
-    {/*        <br />*/}
-    {/*        fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus*/}
-    {/*        ullamcorper.*/}
-    {/*      </p>*/}
-    {/*    </header>*/}
-    {/*    <ul className='features'>*/}
-    {/*      <li className='icon fa-paper-plane'>*/}
-    {/*        <h3>Arcu accumsan</h3>*/}
-    {/*        <p>*/}
-    {/*          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem*/}
-    {/*          tincidunt nullam amet leo Aenean ligula consequat consequat.*/}
-    {/*        </p>*/}
-    {/*      </li>*/}
-    {/*      <li className='icon solid fa-laptop'>*/}
-    {/*        <h3>Ac Augue Eget</h3>*/}
-    {/*        <p>*/}
-    {/*          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem*/}
-    {/*          tincidunt nullam amet leo Aenean ligula consequat consequat.*/}
-    {/*        </p>*/}
-    {/*      </li>*/}
-    {/*      <li className='icon solid fa-code'>*/}
-    {/*        <h3>Mus Scelerisque</h3>*/}
-    {/*        <p>*/}
-    {/*          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem*/}
-    {/*          tincidunt nullam amet leo Aenean ligula consequat consequat.*/}
-    {/*        </p>*/}
-    {/*      </li>*/}
-    {/*      <li className='icon solid fa-headphones-alt'>*/}
-    {/*        <h3>Mauris Imperdiet</h3>*/}
-    {/*        <p>*/}
-    {/*          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem*/}
-    {/*          tincidunt nullam amet leo Aenean ligula consequat consequat.*/}
-    {/*        </p>*/}
-    {/*      </li>*/}
-    {/*      <li className='icon fa-heart'>*/}
-    {/*        <h3>Aenean Primis</h3>*/}
-    {/*        <p>*/}
-    {/*          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem*/}
-    {/*          tincidunt nullam amet leo Aenean ligula consequat consequat.*/}
-    {/*        </p>*/}
-    {/*      </li>*/}
-    {/*      <li className='icon fa-flag'>*/}
-    {/*        <h3>Tortor Ut</h3>*/}
-    {/*        <p>*/}
-    {/*          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem*/}
-    {/*          tincidunt nullam amet leo Aenean ligula consequat consequat.*/}
-    {/*        </p>*/}
-    {/*      </li>*/}
-    {/*    </ul>*/}
-    {/*  </div>*/}
-    {/*</section>*/}
+    <section id='three' className='wrapper style3 special'>
+      <div className='inner'>
+        <header className='major'>
+          <h2>My way of working</h2>
+          <p>
+            There are some principles I follow during my daily work.
+            <br/>
+            Most of them established form me felling passionate about them and seeing them lead to success.
+          </p>
+        </header>
+        <ul className='features'>
+          <li className='icon fa-flag'>
+            <h3>Build complete Solutions</h3>
+            <p>
+              I am motivated by planning and realizing complete solutions to see them come to life.
+              For that it is necessary to solve a multitude of diverse problems and
+              combine different building blocks to deliver a satisfying solution.
+            </p>
+          </li>
+          <li className='icon solid fa-code'>
+            <h3>Maintainability in Mind</h3>
+            <p>
+              Most systems spend way more time in maintenance or continuous improvement than in their initial development phase.
+              So, in my opinion it is necessary to keep those aspects in mind, right at the beginning of the design.
+            </p>
+          </li>
+          <li className='icon fa-user'>
+            <h3>User centric</h3>
+            <p>
+              Fore me, it is very motivating to design and work on a solution,
+              which is putting the user at the center of development.
+              Challenging ideas with that in mind will always lead to a better result.
+            </p>
+          </li>
+          <li className='icon fa-lightbulb'>
+            <h3>Knowledge work</h3>
+            <p>
+              Working most of the time with unique problems and new challenges is both very demanding and rewarding.
+              Acquiring new knowledge therefore is necessary as well as a chance for coming up with new and innovative ideas.
+            </p>
+          </li>
+          <li className='icon fa-paper-plane'>
+            <h3>Constant improvement</h3>
+            <p>
+              I think there is always a way to be more efficient or effective.
+              Relying on the status quo therefore is a missed chance to achieve something better.
+              To get to this point, self-reflection and constructive feedback can’t be important enough.
+            </p>
+          </li>
+          <li className='icon fa-heart'>
+            <h3>Fun</h3>
+            <p>
+              The result won’t be good, when you don't have some fun building it.
+              If the fun is missing, motivation will be next.
+              So, with your team you should celebrate achievements and take tough times with enough humor.
+            </p>
+          </li>
+        </ul>
+      </div>
+    </section>
 
     {/*<section id='cta' className='wrapper style4'>*/}
     {/*  <div className='inner'>*/}
