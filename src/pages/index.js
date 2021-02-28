@@ -6,8 +6,8 @@ import Scroll from '../components/Scroll';
 
 // import picMe from '../assets/images/profile-picture.jpg';
 import picMe from '../assets/images/madrid.jpg';
-import picPrivate from '../assets/images/hobby.jpeg';
-import picBlog from '../assets/images/blog.jpeg';
+import picPrivate from '../assets/images/hobby.jpg';
+import picBlog from '../assets/images/blog.jpg';
 import config from '../../config';
 import Link from 'gatsby-link';
 
