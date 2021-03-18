@@ -156,7 +156,7 @@ const IndexPage = () => (
           <p>
             There are some principles I follow during my daily work.
             <br/>
-            Most of them established form me felling passionate about them and seeing them lead to success.
+            Most of them established from me feeling passionate about them and seeing them lead to success.
           </p>
         </header>
         <ul className='features'>
