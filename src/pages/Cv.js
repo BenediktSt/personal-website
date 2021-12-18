@@ -45,7 +45,14 @@ const IndexPage = () => (
               <table className='plain'>
                 <tbody>
                 <tr>
-                  <th>11/2019 – now</th>
+                  <th>12/2021 – now</th>
+                  <td>
+                    <span><b>Technology Consulting Manager</b></span><br />
+                    <span>Accenture GmbH</span>
+                  </td>
+                </tr>
+                <tr>
+                  <th>11/2019 – 11/2021</th>
                   <td>
                     <span><b>Business & Technology Delivery Specialist</b></span><br />
                     <span>Accenture GmbH</span>
@@ -128,6 +135,14 @@ const IndexPage = () => (
               <table className='plain'>
                 <tbody>
                 <tr>
+                  <th>2021</th>
+                  <td>
+                    <span><a href="https://www.credly.com/badges/3aed1619-117e-4843-a501-d316676984d7/public_url">AWS Certified Cloud Practitioner</a></span><br />
+                    <span><a href="https://www.credly.com/badges/c740c3e2-5a82-492f-8a99-75b3da0a5288/public_url">AWS Partner: Accreditation (Technical)</a></span><br />
+                    <span><a href="https://www.credly.com/badges/24c1366f-9700-442f-8cdf-314491b61a90/public_url">AWS Partner: Accreditation (Business)</a></span><br />
+                  </td>
+                </tr>
+                <tr>
                   <th>2019</th>
                   <td>
                     <span>Product Owner by borisgloger</span>
@@ -136,7 +151,7 @@ const IndexPage = () => (
                 <tr>
                   <th>2018</th>
                   <td>
-                    <span>CPRE Foundation</span>
+                    <span><a href="https://www.certible.com/verify/8bacc3e61e10419b2217537bcd4df2d2">CPRE Foundation</a></span>
                   </td>
                 </tr>
                 <tr>
@@ -145,8 +160,8 @@ const IndexPage = () => (
                     <span>ISTQB Certified Tester - Foundation Level</span><br />
                     <span>ISTQB Certified Tester - Technical Test Analyst</span><br />
                     <span>iSQI Certified Agile Essentials</span><br />
-                    <span>Gamification Design 2015 MOOC - Iversity GmbH</span><br />
-                    <span>Gamification MOOC - Coursera</span>
+                    <span><a href="https://iversity.org/verify/fQwhhL">Gamification Design 2015 MOOC - Iversity GmbH</a></span><br />
+                    <span><a href="https://www.coursera.org/account/accomplishments/verify/RX3MN9HYL3">Gamification MOOC - Coursera</a></span>
                   </td>
                 </tr>
                 <tr>
@@ -175,6 +190,8 @@ const IndexPage = () => (
               <p>
                 Microservices,
                 Docker,
+                Kubernetes,
+                AWS,
                 Message Driven Architecture,
                 24*7 Availability Systems,
                 NoSQL Infrastructure,
